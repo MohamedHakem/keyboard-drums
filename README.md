@@ -1,4 +1,3 @@
-## Drums app 
-This is a very simple nilla Js app that plays different sounds when different keyboard keys are pushed.
-
-Live Demo: https://mohamedhakem.github.io/JS-Drums
+## Keyboard Drums 
+This is a very simple (vanilla Js) app that plays different sounds when different keyboard keys are pushed. <br />
+[Try it!](https://mohamedhakem.github.io/keyboard-drums)
